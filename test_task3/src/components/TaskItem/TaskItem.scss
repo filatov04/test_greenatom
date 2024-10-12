@@ -1,0 +1,74 @@
+$checkbox: #6370ef;
+
+.item{
+    min-height: 50px;
+    display: flex;
+    height: auto;
+    border: 2px solid;
+    border-color: white; 
+    background-color: white;
+    //border-color: yellow;
+    align-items: center;
+    &--purple{
+        border-color: purple;
+    }
+
+    &__checkbox{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 5%;
+        height: 100%;
+
+        input{
+            width: 30px;
+            aspect-ratio: 1;
+            accent-color: $checkbox;
+        }
+
+    }
+
+    &__task{
+        display: flex;
+        width: 90%;
+        height: 100%;
+        padding-left: 15px;
+        align-items: center;
+
+    }
+
+    &__task-name{
+        font-size: 20px;
+        font-weight: 600;
+        margin: 0;
+        color: rgb(95, 95, 95);
+
+        &--done{
+            color: rgb(138, 138, 138);
+            text-decoration: line-through;
+            text-decoration-thickness: 2px;
+            text-decoration-color: rgb(138, 138, 138);
+        }
+    }
+
+    &__delete{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 5%;
+
+        button{
+            border: none;
+            background-color: white;
+            width: 100%;
+            aspect-ratio: 1;
+            cursor: pointer;
+        }
+
+        img{
+            width: 100%;
+            aspect-ratio: 1;
+        }
+    }
+}

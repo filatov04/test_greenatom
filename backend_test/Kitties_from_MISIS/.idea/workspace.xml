@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7420094a-fadb-4b7c-aad3-e170644bc9fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kaban/app/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/shared/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/shared/containers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/shared/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/web/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/web/router/router.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban/app/web_entry_point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/shared/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/shared/containers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/shared/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/web/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/web/router/router.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaban_quotations/app/web_entry_point.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nKTBO0t07bBkuhe60vA0QQWwT8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "kaban",
+    "last_opened_file_path": "C:/Users/MSI/Desktop/test_task/backend_test/Kitties_from_MISIS"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7420094a-fadb-4b7c-aad3-e170644bc9fc" name="Changes" comment="" />
+      <created>1728720631597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728720631597</updated>
+    </task>
+    <servers />
+  </component>
+</project>
